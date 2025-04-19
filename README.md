@@ -30,9 +30,13 @@ Developed by:
 RegisterNumber: 
 */
 ```
+![Screenshot 2025-04-19 144009](https://github.com/user-attachments/assets/d34e2ed0-99d3-4722-a250-7b750033a521)
+![Screenshot 2025-04-19 144025](https://github.com/user-attachments/assets/49a6a2d4-158e-49a5-9dfd-1cf7fc2ff479)
 
 ## Output:
 ![lu decomposition]()
+![Screenshot 2025-04-19 144040](https://github.com/user-attachments/assets/03140f65-943f-43aa-9458-be22f6e9c9c6)
+![Screenshot 2025-04-19 144058](https://github.com/user-attachments/assets/ba5c1e4c-a06a-4cd3-8841-ad036caf257d)
 
 
 ## Result:
